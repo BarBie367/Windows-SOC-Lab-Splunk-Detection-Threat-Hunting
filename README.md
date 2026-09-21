@@ -25,7 +25,7 @@ alerting, and incident investigation.
 
 ## Lab Architecture
 
-[Insert architecture diagram here]
+[architecture/project architecture.jpg]
 
 ## Technologies
 
